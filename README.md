@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Neervison Laguna 👋
 
-<!--
-**neervison/neervison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista Programador** · Santiago de Chile
 
-Here are some ideas to get you started:
+Desarrollo aplicaciones web completas, de la idea al despliegue: sistemas para restaurantes, finanzas personales y herramientas de gestión que hoy usan personas reales todos los días.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+- **PropinasApp** — Sistema multi-sucursal de cálculo y reparto de propinas para restaurantes (Node.js, Express, MongoDB, PWA).
+- **Mis Pagos** — App de recordatorios de pago, gastos e ingresos personales (PWA, Node.js, MongoDB).
+- **TechNova** — Landing page y panel de pedidos y facturación (Node.js, Express, SQLite).
+
+## Tecnologías
+
+JavaScript · Node.js · Express · MongoDB · PHP · HTML · CSS · Git y GitHub · Render
+
+## Contacto
+
+- GitHub: [@neervison](https://github.com/neervison)
